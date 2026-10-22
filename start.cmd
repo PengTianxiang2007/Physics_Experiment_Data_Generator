@@ -16,6 +16,5 @@ if errorlevel 1 (
 )
 echo LabForm: http://127.0.0.1:8080/
 echo Keep this window open. Press Ctrl+C to stop the local server.
-start "" "http://127.0.0.1:8080/"
-node scripts/serve.mjs
+node scripts/serve.mjs --port=8080 --open
 pause

@@ -1,4 +1,5 @@
 import { createServer } from 'node:http';
+import { spawn } from 'node:child_process';
 import { createReadStream } from 'node:fs';
 import { realpath, stat } from 'node:fs/promises';
 import { dirname, extname, isAbsolute, relative, resolve, sep } from 'node:path';
@@ -71,6 +72,10 @@ if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.ur
       console.log(`LabForm 已启动：http://127.0.0.1:${port}/`);
       console.log(`使用指南：http://127.0.0.1:${port}/guide.html`);
       console.log('按 Ctrl+C 停止。');
+      if (process.argv.includes('--open') && process.platform === 'win32') {
+        const browser = spawn('explorer.exe', [`http://127.0.0.1:${port}/`], { stdio: 'ignore' });
+        browser.on('error', () => console.log('请手动打开上方地址。'));
+      }
     });
   }
 }
