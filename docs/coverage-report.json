@@ -1,0 +1,163 @@
+{
+  "timestamp": "2026-10-22T09:00:56.171Z",
+  "experiments": 13,
+  "report": [
+    {
+      "exp": "exp01",
+      "inputs": 128,
+      "filled": 128,
+      "missing": [],
+      "badGenerated": [],
+      "deterministic": true,
+      "preserved": true,
+      "warnings": [
+        "不确定度面板仅显示 A 类估计，尚未包含仪器误差及完整传播；k 为用户指定的包含因子。"
+      ]
+    },
+    {
+      "exp": "exp03",
+      "inputs": 16,
+      "filled": 16,
+      "missing": [],
+      "badGenerated": [],
+      "deterministic": true,
+      "preserved": true,
+      "warnings": [
+        "不确定度面板仅显示 A 类估计，尚未包含仪器误差及完整传播；k 为用户指定的包含因子。"
+      ]
+    },
+    {
+      "exp": "exp04",
+      "inputs": 53,
+      "filled": 53,
+      "missing": [],
+      "badGenerated": [],
+      "deterministic": true,
+      "preserved": true,
+      "warnings": [
+        "不确定度面板仅显示 A 类估计，尚未包含仪器误差及完整传播；k 为用户指定的包含因子。"
+      ]
+    },
+    {
+      "exp": "exp06",
+      "inputs": 29,
+      "filled": 29,
+      "missing": [],
+      "badGenerated": [],
+      "deterministic": true,
+      "preserved": true,
+      "warnings": [
+        "不确定度面板仅显示 A 类估计，尚未包含仪器误差及完整传播；k 为用户指定的包含因子。"
+      ]
+    },
+    {
+      "exp": "exp07",
+      "inputs": 68,
+      "filled": 68,
+      "missing": [],
+      "badGenerated": [],
+      "deterministic": true,
+      "preserved": true,
+      "warnings": [
+        "不确定度面板仅显示 A 类估计，尚未包含仪器误差及完整传播；k 为用户指定的包含因子。"
+      ]
+    },
+    {
+      "exp": "exp08",
+      "inputs": 22,
+      "filled": 22,
+      "missing": [],
+      "badGenerated": [],
+      "deterministic": true,
+      "preserved": true,
+      "warnings": [
+        "不确定度面板仅显示 A 类估计，尚未包含仪器误差及完整传播；k 为用户指定的包含因子。"
+      ]
+    },
+    {
+      "exp": "exp09",
+      "inputs": 52,
+      "filled": 52,
+      "missing": [],
+      "badGenerated": [],
+      "deterministic": true,
+      "preserved": true,
+      "warnings": [
+        "不确定度面板仅显示 A 类估计，尚未包含仪器误差及完整传播；k 为用户指定的包含因子。"
+      ]
+    },
+    {
+      "exp": "exp10",
+      "inputs": 240,
+      "filled": 240,
+      "missing": [],
+      "badGenerated": [],
+      "deterministic": true,
+      "preserved": true,
+      "warnings": [
+        "不确定度面板仅显示 A 类估计，尚未包含仪器误差及完整传播；k 为用户指定的包含因子。"
+      ]
+    },
+    {
+      "exp": "exp11",
+      "inputs": 80,
+      "filled": 80,
+      "missing": [],
+      "badGenerated": [],
+      "deterministic": true,
+      "preserved": true,
+      "warnings": [
+        "不确定度面板仅显示 A 类估计，尚未包含仪器误差及完整传播；k 为用户指定的包含因子。"
+      ]
+    },
+    {
+      "exp": "exp12",
+      "inputs": 64,
+      "filled": 64,
+      "missing": [],
+      "badGenerated": [],
+      "deterministic": true,
+      "preserved": true,
+      "warnings": [
+        "不确定度面板仅显示 A 类估计，尚未包含仪器误差及完整传播；k 为用户指定的包含因子。"
+      ]
+    },
+    {
+      "exp": "exp13",
+      "inputs": 20,
+      "filled": 20,
+      "missing": [],
+      "badGenerated": [],
+      "deterministic": true,
+      "preserved": true,
+      "warnings": [
+        "不确定度面板仅显示 A 类估计，尚未包含仪器误差及完整传播；k 为用户指定的包含因子。"
+      ]
+    },
+    {
+      "exp": "exp14",
+      "inputs": 58,
+      "filled": 58,
+      "missing": [],
+      "badGenerated": [],
+      "deterministic": true,
+      "preserved": true,
+      "warnings": [
+        "不确定度面板仅显示 A 类估计，尚未包含仪器误差及完整传播；k 为用户指定的包含因子。"
+      ]
+    },
+    {
+      "exp": "exp15",
+      "inputs": 6,
+      "filled": 6,
+      "missing": [],
+      "badGenerated": [],
+      "deterministic": true,
+      "preserved": true,
+      "warnings": [
+        "不确定度面板仅显示 A 类估计，尚未包含仪器误差及完整传播；k 为用户指定的包含因子。"
+      ]
+    }
+  ],
+  "problems": []
+}

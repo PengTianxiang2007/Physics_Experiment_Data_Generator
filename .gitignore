@@ -1,0 +1,16 @@
+node_modules/
+.openai/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+coverage/
+test-results/
+playwright-report/
+*.tar.gz
+*-deploy.zip
+*-qa.docx
+*-qa.pdf
+

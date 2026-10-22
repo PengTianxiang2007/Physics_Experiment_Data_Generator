@@ -1,0 +1,15 @@
+{
+  "name": "labform-physics-data",
+  "version": "1.2.0",
+  "private": true,
+  "description": "大学物理实验模拟数据工作台，支持原表、固定条件、读数锁定与不确定度约束。",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "node --test",
+    "check": "node --check dist/app.js && node --check dist/guide.js && node --check dist/engine.js && node --check dist/export-docx.js && node --test"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "format": "LabForm",
+  "version": 1,
+  "provenance": "SIMULATED",
+  "experimentId": "exp09",
+  "experimentName": "分光计",
+  "source": "Data tables-2017.docx",
+  "description": "使用指南示例；手动标识的两个输入也是模拟练习数据。",
+  "state": {
+    "values": {
+      "exp09-t1-r3c1": "35° 0′",
+      "exp09-t1-r3c2": "215° 0′"
+    },
+    "locked": {
+      "exp09-t1-r3c1": true,
+      "exp09-t1-r3c2": true
+    },
+    "provenance": {
+      "exp09-t1-r3c1": "manual",
+      "exp09-t1-r3c2": "manual"
+    },
+    "params": {
+      "apex": 60,
+      "prismStart": 35,
+      "grating": 600,
+      "spectrumZero": 95,
+      "angleResolution": 1,
+      "green": 546.07,
+      "yellow1": 577,
+      "yellow2": 579
+    },
+    "fixedParams": {
+      "apex": true,
+      "grating": true,
+      "angleResolution": true
+    },
+    "options": {
+      "seed": "spectrometer-demo-01",
+      "noise": 0.3,
+      "targetU": null,
+      "k": 2,
+      "bLimit": 0,
+      "measurement": "",
+      "seedFixed": true
+    }
+  }
+}
